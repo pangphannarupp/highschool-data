@@ -7,8 +7,8 @@
                 {
                     "id": 1,
                     "title": "គណិតវិទ្យា",
-                    "image": "",
-                    "pdf": "",
+                    "image": "images/grade_12_math.jpg",
+                    "pdf": "book/grade_12_math.pdf",
                     "status": true
                 }
             ]
